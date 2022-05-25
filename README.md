@@ -2,7 +2,7 @@
 This repo contains the files needed for assessment of "Deploy Static Website on AWS" project in the Alx_-Udacity Cloud-DevOps Nanodegree program
 
 # CloudFront endpoint URL:
-dp0rlqyilg2z5.cloudfront.net
+https://dp0rlqyilg2z5.cloudfront.net
 
 
 # Static website endpoint:
